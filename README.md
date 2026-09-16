@@ -2,11 +2,9 @@
 
 <div align="center">
 
-# AKHILA ANISH DAS
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=AKHILA+ANISH+DAS;B.Tech+CSE+%7C+Developer+%7C+Problem+Solver;Build+%7C+Break+%7C+Debug+%7C+Learn" alt="Typing SVG" />
 
-### `Computer Science Engineer in the Making`
-
-**B.Tech CSE '29 · ITM Skills University · Kharghar, Navi Mumbai**
+</div>
 
 <br>
 
