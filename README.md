@@ -1,5 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Akhila+Anish+Das+%F0%9F%91%8B;Computer+Science+Student+%7C;Build+%7C+Break+%7C+Debug+%7C+Learn" alt="Typing SVG" />
-### B.Tech Computer Science & Engineering Student | Software Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Akhila+Anish+Das+%F0%9F%91%8B;Computer+Science+Student;Build+%7C+Break+%7C+Debug+%7C+Learn" alt="Typing SVG" />
+
+B.Tech Computer Science & Engineering Student | Software Developer
 
 I'm a second-year CSE student interested in software development, web technologies, AI, and problem solving.
 
