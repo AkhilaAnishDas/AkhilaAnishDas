@@ -34,7 +34,6 @@ I enjoy building projects, working with different technologies, and learning by 
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb" height="45"/>
 </p>
 
-**SQL • NoSQL • DBMS**
 
 ### 🔧 Developer Tools
 
@@ -45,8 +44,6 @@ I enjoy building projects, working with different technologies, and learning by 
 ### 🧠 Computer Science
 
 **Data Structures & Algorithms • OOP • Operating Systems • Computer Networking • Cybersecurity Fundamentals • DBMS**
-
-### 🤖 AI
 
 ### 🤖 AI
 **ChatGPT • Claude • Google Gemini**
@@ -68,8 +65,8 @@ I enjoy building projects, working with different technologies, and learning by 
 ## 🎨 Beyond Coding
 
 - 🎨 Drawing
-- ✍️ Writing
-- 🏸 Badminton
+- ✍️ Writing 
+- 🏸 Badminton, Table Tennis
 
 ---
 
