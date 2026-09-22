@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Akhila+Anish+Das+%F0%9F%91%8B;Computer+Science+Student;Build+%7C+Break+%7C+Debug+%7C+Learn" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Akhila+Anish+Das+%F0%9F%91%8B" alt="Typing SVG" />
 
 ### B.Tech Computer Science & Engineering Student | Software Developer
 
