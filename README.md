@@ -1,8 +1,8 @@
-# Hi, I'm Akhila Anish Das 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Akhila+Anish+Das+👋+%7C+Solution+Creator;Build+%7C+Break+%7C+Debug+%7C+Learn" alt="Typing SVG" />
 
 ### B.Tech Computer Science & Engineering Student | Software Developer
 
-I'm a second-year Computer Science student at **ITM Skills University** interested in software development, web technologies, AI, and problem solving.
+I'm a second-year CSE student interested in software development, web technologies, AI, and problem solving.
 
 I enjoy building projects, working with different technologies, and learning by creating real-world applications.
 
@@ -11,49 +11,38 @@ I enjoy building projects, working with different technologies, and learning by 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-- Java
-- C++
-- JavaScript
-- HTML5
-- CSS3
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,js" height="45"/>
+</p>
 
 ### 🎨 Frontend
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" height="45"/>
+</p>
 
 ### ⚙️ Backend
-- Node.js
-- Express.js
-- REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="45"/>
+</p>
 
 ### 🗄️ Databases
-- PostgreSQL
-- SQL
-- MongoDB
-- NoSQL
-- Firebase
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,sql,nosql" height="45"/>
+</p>
 
 ### 🔧 Developer Tools
-- Git
-- GitHub
-- Postman
-- VS Code
-- MongoDB Compass
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,git," height="45"/>
+</p>
 
 ### 🧠 Computer Science
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- Operating Systems
-- Computer Networking
-- Cybersecurity Fundamentals
-- DBMS
+Data Structures & Algorithms • OOP • Operating Systems • Computer Networking • Cybersecurity Fundamentals • DBMS
+
 
 ### 🤖 AI
-- AI Tools: ChatGPT, Google Gemini, Claude
-- Prompt Engineering
-- AI-assisted Development
+<p>
+<img src="https://skillicons.dev/icons?i=chatgpt,claude,gemini" height="45"/>
+</p>
 
 ---
 
@@ -73,22 +62,6 @@ I enjoy building projects, working with different technologies, and learning by 
 - 🎨 Drawing
 - ✍️ Writing
 - 🏸 Badminton
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AkhilaAnishDas&show_icons=true&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilaAnishDas&layout=compact&hide_border=true" height="180"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=AkhilaAnishDas&hide_border=true"/>
-
-</div>
 
 ---
 
