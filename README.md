@@ -31,7 +31,7 @@ I enjoy building projects, working with different technologies, and learning by 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase" height="45"/>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb" height="45"/>
 </p>
 
 **SQL • NoSQL • DBMS**
@@ -39,7 +39,7 @@ I enjoy building projects, working with different technologies, and learning by 
 ### 🔧 Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/>
 </p>
 
 ### 🧠 Computer Science
@@ -48,8 +48,12 @@ I enjoy building projects, working with different technologies, and learning by 
 
 ### 🤖 AI
 
+### 🤖 AI
+
 <p>
-<img src="https://skillicons.dev/icons?i=chatgpt,claude,gemini" height="45"/>
+<img src="https://cdn.simpleicons.org/openai" height="45"/>
+<img src="https://cdn.simpleicons.org/anthropic" height="45"/>
+<img src="https://cdn.simpleicons.org/googlegemini" height="45"/>
 </p>
 
 **Prompt Engineering • AI-assisted Development**
