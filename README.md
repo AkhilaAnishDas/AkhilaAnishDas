@@ -49,13 +49,7 @@ I enjoy building projects, working with different technologies, and learning by 
 ### 🤖 AI
 
 ### 🤖 AI
-
-<p>
-<img src="https://cdn.simpleicons.org/openai" height="45"/>
-<img src="https://cdn.simpleicons.org/anthropic" height="45"/>
-<img src="https://cdn.simpleicons.org/googlegemini" height="45"/>
-</p>
-
+**ChatGPT • Claude • Google Gemini**
 **Prompt Engineering • AI-assisted Development**
 
 ---
